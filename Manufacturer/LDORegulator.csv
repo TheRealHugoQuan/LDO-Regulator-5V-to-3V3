@@ -1,0 +1,25 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,Manufactuer Part No.,Manufacturer
+C1,1,10uF,,,,Capacitor_SMD:C_0603_1608Metric,~,CL10A106MQ8NNNC,C19702
+C2,1,100nF,,,,Capacitor_SMD:C_0402_1005Metric,~,CL05B104KO5NNNC,C1525
+D1,1,LED,,,,LED_SMD:LED_0603_1608Metric,~,19-217/G7C-AL1M2B/3T,C72043
+F2,1,500mA,,,,Fuse:Fuse_1206_3216Metric,~,nSMD050-13.2V,C83921
+"FID1,FID2,FID3",3,Fiducial,,Excluded from BOM,,Fiducial:Fiducial_1mm_Mask2mm,~,,
+J2,1,USB_C_Receptacle_USB2.0_16P,,,,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,
+R1,1,330R,,,,Resistor_SMD:R_0402_1005Metric,~,0603WAF3300T5E,C23138
+"R4,R5",2,5k1,,,,Resistor_SMD:R_0603_1608Metric,~,0603WAF5101T5E,C23186
+TP1,1,TestPoint_3V3,,,,TestPoint:TestPoint_Pad_1.5x1.5mm,~,,
+TP2,1,TestPoint_GND,,,,TestPoint:TestPoint_Pad_1.5x1.5mm,~,,
+U1,1,LD1117V33,,,,Package_TO_SOT_SMD:SOT-223-3_TabPin2,https://www.st.com/resource/en/datasheet/ld1117.pdf,AMS1117-3.3,C6186
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Designator,Footprint,JLCPCB Part #?optional?,,,,,,
+100uF,C1,CAP-SMD_L3.5-W2.8,C16133,,,,,,
+15K,"R5,R6",R0603,C22809,,,,,,
+DC-005-20A_C136744,DC1,DC-IN-TH_DC-005-20A,C136744,,,,,,
+Header-Female-2.54_1x8,"P2,P3",HDR-TH_8P-P2.54-V,C27438,,,,,,
+K2-1102DP-C4SW-04,SW1,KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5,C110153,,,,,,
+ATMEGA328P-PU,U1,DIP-28_L34.6-W7.3-P2.54-LS10.2-BL,C33901,,,,,,
+670688000,USB1,USB-B-TH_67068-8000,C114097,,,,,,

@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,JLCPCB Part # (optional)
+10uF,C1,Capacitor_SMD:C_0603_1608Metric,C19702
+100nF,C2,Capacitor_SMD:C_0402_1005Metric,C1525
+LED,D1,LED_SMD:LED_0603_1608Metric,C72043
+500mA,F2,Fuse:Fuse_1206_3216Metric,C83921
+USB_C_Receptacle_USB2.0_16P,J2,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,
+330R,R1,Resistor_SMD:R_0402_1005Metric,C23138
+5k1,"R4,R5",Resistor_SMD:R_0603_1608Metric,C23186
+TestPoint_3V3,TP1,TestPoint:TestPoint_Pad_1.5x1.5mm,
+TestPoint_GND,TP2,TestPoint:TestPoint_Pad_1.5x1.5mm,
+LD1117V33,U1,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C6186
